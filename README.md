@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wlauer00
 - 👀 I’m interested in Computer Science as a topic, and more specifically Artificial Intelligence, Machine Learning and Software Development.
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, and Javascript while working through my undergraduate degree in Computer Science. 
 - 📫 How to reach me wlauer00@gmail.com
 
 <!---
