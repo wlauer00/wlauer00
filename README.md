@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wlauer00
 - 👀 I’m interested in Signal Processing, Deep Learning, Mobile App Development, and Web Dev!
-- 🌱 I’m currently learning Swift, React Native, and cleaning up my C++ knowledge.
+- 🌱 I’m currently learning Flutter(and therefore Dart), React Native, and updating up my C++ knowledge.
 - 📫 How to reach me wlauer00@gmail.com
 
 <!---
